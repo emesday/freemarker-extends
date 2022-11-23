@@ -1,4 +1,4 @@
-# (Apache FreeMarker)[https://github.com/apache/freemarker] `extends` directive
+# [Apache FreeMarker](https://github.com/apache/freemarker) `extends` directive
 
 This repository provides the simple solution.
 
